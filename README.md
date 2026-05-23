@@ -48,12 +48,15 @@ Meu primeiro produto SaaS completo voltado para o nicho de alimentação.
 
 ## 📈 Estatísticas do GitHub
 
-
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santirinetech&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_bypass=1" alt="Estatísticas do GitHub de Samyra" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=santirinetech&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=santirinetech&theme=tokyonight&cache_bypass=1" alt="Streak do GitHub" />
 </p>
 
+### 🏆 Conquistas no GitHub
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santirinetech&theme=tokyonight&no-bg=true&margin-w=4" alt="Troféus do GitHub" /></a>
+</p>
 ---
 
 ## 🤝 Vamos construir algo incrível juntos?
